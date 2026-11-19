@@ -2,7 +2,6 @@
 
 Bài thực hành React gồm **Phần A (Class Component)** và **Phần B (Function Component + Hooks)**, không dùng React Router, Redux, hay thư viện UI.
 
-> Họ tên: [Điền họ tên]  |  Mã sinh viên: [Điền mã sinh viên]  |  Lớp: [Điền lớp]
 
 ## 1. Cấu trúc
 
