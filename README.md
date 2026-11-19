@@ -2,7 +2,7 @@
 
 Bài thực hành React gồm **Phần A (Class Component)** và **Phần B (Function Component + Hooks)**, không dùng React Router, Redux, hay thư viện UI.
 
-
+> Họ và tên: Phạm Gia Hưng MSV:B25DCTV031
 ## 1. Cấu trúc
 
 ```text
